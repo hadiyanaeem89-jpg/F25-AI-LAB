@@ -1,7 +1,7 @@
 Lab 1: Introduction to Artificial Intelligence and AI Paradigms
 Student Information
-- Name: \(Write your name\)
-- Registration Number: \(Write your registration number\)
+- Name:  Hadiya Naeem
+-  
 - Course: Artificial Intelligence
 - Lab: 01 -- Introduction to AI and AI Paradigms
 1. Introduction
