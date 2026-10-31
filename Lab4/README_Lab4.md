@@ -1,7 +1,7 @@
 Lab 4: Informed Search -- Heuristics and A*
 Student Information
-- Name: \(Write your name\)
-- Registration Number: \(Write your registration number\)
+- Name:  Hadiya Naeem
+ 
 - Course: Artificial Intelligence
 - Lab: 04 -- Informed Search: Heuristics and A*
 1. Introduction
